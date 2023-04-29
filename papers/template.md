@@ -18,6 +18,12 @@ The brief summary of the problem.
 * **✅ Solved**: partially or fully solved problem. 
 * **🤔 Unsolved**:  (similar to the weakness)what is the remaining problem.
 * **💡 New Problem** :(similar to the strengths) what is the emerged problem that you think from this work? 
+* if the proposed algorithm fundamentally solves the given problem and if it does, think about which aspect of the algorithm makes the problem solved
+    * Answer 1
+    * Answer 2
+    * Answer 3
+
+
 
 ## Summary 
 
