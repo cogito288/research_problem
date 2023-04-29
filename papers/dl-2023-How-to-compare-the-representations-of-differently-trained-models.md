@@ -1,14 +1,5 @@
 # How to compare the representations of differently trained models
 
-#### Paper Info 
-* Title : Relative Representations Enable Zero-Shot Latent Space Communication   
-* Authors: Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà
-* Publication : 2023.01.21 (Acceptance at ICLR 2023)
-* paper link : https://arxiv.org/abs/2209.15430
-
-#### Page Info 
-* Contributors: Bumjin Park
-* 2023.04.29  
 
 ## Problem 
 
@@ -19,6 +10,19 @@
 * **🌹 if the proposed algorithm fundamentally solves the given problem and if it does, think about which aspect of the algorithm makes the problem solved**
     * The learned algorithm only provides the angle perspective of representations and the dimensional magnitude is not solved. 
     * To the general comparison of representations, the magnitude information must be injected to the relative representation so that the full information is encoded.
+
+
+# Paper
+
+### Paper Info 
+* Title : Relative Representations Enable Zero-Shot Latent Space Communication   
+* Authors: Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà
+* Publication : 2023.01.21 (Acceptance at ICLR 2023)
+* paper link : https://arxiv.org/abs/2209.15430
+
+### Page Info 
+* Contributors: Bumjin Park
+* 2023.04.29  
 
 
 ## Summary 

@@ -1,14 +1,6 @@
 # Template <Paper Name>
 
-#### Paper Info 
-* Authors: A, B, C  
-* Publication : 2023.01.01 (Publication Date)
-* paper link : https://github.com/fxnnxc/research_problem
 
-#### Page Info 
-* Contributors: Your Name, B, C (if multiple people contribute to the page) 
-* 2023.04.20 : date of the submission  
-* 2023.06.29 : date of the modification (if any)  
 
 ## Problem 
 
@@ -23,6 +15,17 @@ The brief summary of the problem.
     * Answer 2
     * Answer 3
 
+# Paper 
+
+### Paper Info 
+* Authors: A, B, C  
+* Publication : 2023.01.01 (Publication Date)
+* paper link : https://github.com/fxnnxc/research_problem
+
+### Page Info 
+* Contributors: Your Name, B, C (if multiple people contribute to the page) 
+* 2023.04.20 : date of the submission  
+* 2023.06.29 : date of the modification (if any)  
 
 
 ## Summary 
