@@ -30,7 +30,8 @@ The summary of a paper must includes
 Do not use enumeration and itemize. Please write it as full paragraph. 
 
 
-## Discussion
+## Discussion (optional)
+
 
 The discussion page must include 
 1. *solved problem, unsolved problem, and new problem* of the paper.  
