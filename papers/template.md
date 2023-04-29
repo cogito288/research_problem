@@ -38,6 +38,6 @@ The discussion page must include
 2. detailed discussion on the methods and evaluations on the paper. The readability should be clear that even the person who read the summary can understand the overall meaning. For example, don't say *BERT showed superior performance on GLUE benchmark.* Instead paraphrase the sentence as *BERT showed superior performance on GLUE Benchmark which includes 9 sentence-pair datasets to evaluate the general language models.* 
 
 
-## Comments 
+## Comments (optional)
 
 This section has a free format.
