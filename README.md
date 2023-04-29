@@ -1,6 +1,6 @@
 # Research Problem
 
-This is repository is made to build research problems. Please see the [🗂template](papers/template.md) to contribute to the development of this repo. 
+This is repository is collect research problems. 
 
 ## Research Problems 
 
@@ -10,6 +10,8 @@ This is repository is made to build research problems. Please see the [🗂templ
 
 ## How to Contribute 
 
+Please see the [🗂template](papers/template.md) to contribute to the development of this repo. 
+There are two ways to upload your markdown file. 
 1. Git Fork and Pull Request 
 2. Send the written markdown file based on  [🗂template](papers/template.md) to maintainer 
  
