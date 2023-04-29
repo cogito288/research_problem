@@ -5,6 +5,7 @@ This is repository is made to build research problems. Please see the [🗂templ
 ## Research Problems 
 
 
-* [[paper](papers/dl-2023-enable_zero_shot_latent_space_communication.md)] *Relative Representations Enable Zero-Shot Latent Space Communication, Moschella et al., ICLR 2023,* **the comparison of learned representations of models with different training algorithms such as learning rate and optimizers is a challenging problem.**
+
+* 🔅[[2023.04.29](papers/dl-2023-enable_zero_shot_latent_space_communication.md)] **the comparison of learned representations of models with different training algorithms such as learning rate and optimizers is a challenging problem.** *Relative Representations Enable Zero-Shot Latent Space Communication, Moschella et al., ICLR 2023,* 
 
 ---
