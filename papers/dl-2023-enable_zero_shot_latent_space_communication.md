@@ -14,7 +14,7 @@
 
 * **❓ General Problem**: comparison of the learned representations with same architecture and dataset, but different learning strategies.
 * **✅ Solved Problem**: the last representations of two different models are angle preserving. 
-* **🤔 Unsolved Problem**: The meaning of magnitude is unclear.  It is unclear whether the angle preserving holds for hidden representation.
+* **🤔 Unsolved Problem**: The meaning of magnitude of a representation is unclear and the angle preserving might not holds for internal representation.
 * **💡 New Problem** : More problems are about how to choose a proper anchors to make relative representations and how to analyze the angles of learned representations as high dimensional representation can drastically lied on the manifold.  
 
 ## Summary 
