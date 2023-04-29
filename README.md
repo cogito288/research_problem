@@ -2,7 +2,7 @@
 
 This is repository is collect research problems. 
 
-<img src="https://img.shields.io/static/v1?label=Problems&message=1&color=orange?style=flat-logo&logo=Planet" height=32px>
+<img src="https://img.shields.io/static/v1?label=Number of Problems&message=1&color=orange?style=flat-logo&logo=Planet" height=32px>
 
 ## Research Problems 
 
