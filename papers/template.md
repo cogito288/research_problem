@@ -15,8 +15,8 @@
 The brief summary of the problem. 
 
 * **❓ General Problem**: general problem category that the paper focused on. 
-* **✅ Solved Problem**: partially or fully solved problem. 
-* **🤔 Unsolved Problem**:  (similar to the weakness)what is the remaining problem.
+* **✅ Solved**: partially or fully solved problem. 
+* **🤔 Unsolved**:  (similar to the weakness)what is the remaining problem.
 * **💡 New Problem** :(similar to the strengths) what is the emerged problem that you think from this work? 
 
 ## Summary 
