@@ -16,7 +16,7 @@
 * **✅ Solved**: the last representations of two different models are angle preserving. 
 * **🤔 Unsolved**: The meaning of magnitude of a representation is unclear and the angle preserving might not holds for internal representation.
 * **💡 New Problem** : More problems are about how to choose a proper anchors to make relative representations and how to analyze the angles of learned representations as high dimensional representation can drastically lied on the manifold.  
-* if the proposed algorithm fundamentally solves the given problem and if it does, think about which aspect of the algorithm makes the problem solved
+* **🌹 if the proposed algorithm fundamentally solves the given problem and if it does, think about which aspect of the algorithm makes the problem solved**
     * The learned algorithm only provides the angle perspective of representations and the dimensional magnitude is not solved. 
     * To the general comparison of representations, the magnitude information must be injected to the relative representation so that the full information is encoded.
 
