@@ -14,8 +14,8 @@
 
 * **General Problem**: comparison of the learned representations with same architecture and dataset, but different learning strategies.
 * **Solved Problem**: the last representations of two different models are angle preserving. 
-* **Unsolved Problem (similar to the weakness)**: The meaning of magnitude is unclear.  It is unclear whether the observation holds for hidden representation.
-* **New Problem (similar to the strengths)** : How to choose a proper anchors to make relative representations. Angular analysis of learned representations as high dimensional representation can drastically lied on the manifold.  
+* **Unsolved Problem**: The meaning of magnitude is unclear.  It is unclear whether the observation holds for hidden representation.
+* **New Problem** : How to choose a proper anchors to make relative representations. Angular analysis of learned representations as high dimensional representation can drastically lied on the manifold.  
 
 ## Summary 
 
