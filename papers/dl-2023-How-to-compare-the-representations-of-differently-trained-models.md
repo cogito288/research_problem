@@ -1,4 +1,4 @@
-# How to compare the representations of differently trained models
+**TL;DRHow to compare the representations of differently trained models**
 
 
 ## Problem 
