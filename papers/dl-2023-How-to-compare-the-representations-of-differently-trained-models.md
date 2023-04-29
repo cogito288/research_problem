@@ -1,7 +1,7 @@
-# Relative Representations Enable Zero-Shot Latent Space Communication
-
+# How to compare the representations of differently trained models
 
 * Paper Info 
+    * Title : Relative Representations Enable Zero-Shot Latent Space Communication   
     * Authors: Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà
     * Publication : 2023.01.21 (Acceptance at ICLR 2023)
     * paper link : https://arxiv.org/abs/2209.15430
