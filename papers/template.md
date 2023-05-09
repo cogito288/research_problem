@@ -4,10 +4,16 @@
 
 The brief summary of the problem. 
 
-* **❓ General Problem**: general problem category that the paper focused on. 
+* **👀 Motivation**: What does it make authors bing this problem? Why is the problem important or challenging?
+
+* **❓ General Problem**: general problem category that the paper focused on. What is the problem the paper tackled?
+
 * **✅ Solved**: partially or fully solved problem. 
-* **🤔 Unsolved**:  (similar to the weakness)what is the remaining problem.
+
+* **🤔 Unsolved**:  (similar to the weakness) what is the remaining problem.
+
 * **💡 New Problem** :(similar to the strengths) what is the emerged problem that you think from this work? 
+
 * **🌹 if the proposed algorithm fundamentally solves the given problem and if it does, think about which aspect of the algorithm makes the problem solved**
     * Answer 1
     * Answer 2
@@ -27,7 +33,6 @@ The brief summary of the problem.
 
 
 ## Summary 
-
 
 The summary of a paper must includes 
 1. Introduction of the paper: what is the problem, the motivation of the work., how the authors solved it, 
