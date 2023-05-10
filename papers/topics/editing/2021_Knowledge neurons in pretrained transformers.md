@@ -13,7 +13,7 @@
     + Propose a knowledge attribution method based on integrated gradients </br> 
     → If the neuron has a great influence on the expression of a fact, the gradient will be salient, which in turn has large integration values.
   - **To edit specific factual knowledge**
-    + Updating Facts: <$h, r, t$> → <$h, r, t'$> </br>
+    + Updating Facts: < $h, r, t$ > → < $h, r, t'$ > </br>
     <img src="../../figures/2021_KNIPT_2.png" width="250" height="25"> </br>
     where $FFN^{(val)}$ denotes the value slot corresponding to $i$ the $i$-th knowledge neuron; $t$ and $t'$ are the word embeddings of $t$ and $t'$, respectively.
     + Erasing Relation:</br>
