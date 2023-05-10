@@ -46,7 +46,7 @@
 * 2023.05.10
 
 ## Summary 
-<p align="center"><img src="../../figures/2021_KNIPT_3.png" width="750" height="250">
+<p align="center"><img src="../../figures/2021_KNIPT_3.png" width="750" height="300">
 
 * **Contributions**
   - Introduce the concept of knowledge neurons and propose a knowledge attribution method to identify the knowledge neurons that express specific factual knowledge in the fill-in-the-blank cloze task.
