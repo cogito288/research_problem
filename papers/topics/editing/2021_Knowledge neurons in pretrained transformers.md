@@ -9,14 +9,14 @@
 
 * **✅ Solved**:
   - **To identify the knowledge neurons**
-    + Employ the <u>fill-in-the-blank cloze task</u>.
-    + Propose a <u>knowledge attribution method</u> based on integrated gradients </br> 
+    + Employ the fill-in-the-blank cloze task.
+    + Propose a knowledge attribution method based on integrated gradients </br> 
     → If the neuron has a great influence on the expression of a fact, the gradient will be salient, which in turn has large integration values.
   - **To edit specific factual knowledge**
-    + <u>Updating Facts</u>: $<h, r, t>$ → $<h, r, t'>$ </br>
+    + Updating Facts: $<h, r, t>$ → $<h, r, t'>$ </br>
     <img src="../../figures/2021_KNIPT_2.png" width="250" height="25"> </br>
     where $FFN^{(val)}$ denotes the value slot corresponding to $i$ the $i$-th knowledge neuron; $t$ and $t'$ are the word embeddings of $t$ and $t'$, respectively.
-    + <u>Erasing Relation</u>:</br>
+    + Erasing Relation:</br>
     set the value slots in $FFN^{(val)}$ corresponding to these knowledge neurons to 0, i.e., zero vectors.
 
 * **🤔 Unsolved (Limitations)**:
