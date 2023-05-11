@@ -8,7 +8,7 @@
 * **❓ General Problem**: How can we integrate the external knowledge into pre-trained model?
 
 * **✅ Solved**: knowledge injection in Transformer FFN layers
-  <p align="center"><img src="../../figures/2022_Kformer_1.png" width="450" height="500">
+  <p align="center"><img src="../../figures/2022_Kformer_1.png" width="600" height="750">
 
   - Choose knowledge candidates for knowledge injection via knowledge retrieval.
   - The external knowledge is then represented as the average of these tokens' embedding.
