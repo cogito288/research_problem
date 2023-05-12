@@ -54,8 +54,9 @@ Sure! Here's the markdown table for the list of papers you provided:
 
 | Venue | Year | Title | Affiliation | Link | Source |
 | :---: | :---: | :--- | :---: | :---: | :---: |
-| arXiv | 2023  | [`DreamBooth`](papers/editing/2023_dreambooth.md): Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | Google | [[paper]](https://arxiv.org/abs/2208.12242) | [[Official dataset]](https://github.com/google/dreambooth) <br /> [[Unofficial]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) |
-| | 2023 | Erasing Concepts from Diffusion Models | | [[paper]]( http://arxiv.org/abs/2303.07345) | [[code]]() | 
+| arXiv | 2023  | [`DreamBooth`](papers/topics/editing/2023_dreambooth.md): Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation | Google | [[paper]](https://arxiv.org/abs/2208.12242) | [[Official dataset]](https://github.com/google/dreambooth) <br /> [[Unofficial]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) |
+| arXiv | 2023 | [`Erasing`](papers/topics/editing/2023_erasing.md) Concepts from Diffusion Models |  Northeastern Univ. & MIT CSAIL | [[paper]]( http://arxiv.org/abs/2303.07345) | [[code]](https://github.com/rohitgandikota/erasing) | 
+| ICLR | 2022 | [`MEND`]() Fast modeling editing at scale | Stanford | [[paper]](https://arxiv.org/abs/2110.11309) | [[code]](https://github.com/eric-mitchell/mend)
 | | | Locating and Editing Factual Associations in GPT | | [[paper]](http://rome.baulab.info/) | [[code]]() |
 | | | GAN Paint | | [[paper]](http://ganpaint.io/) | [[code]]() |
 | | | Network Dissection | | [[paper]](http://netdissect.csail.mit.edu/) | [[code]]() |
