@@ -34,7 +34,6 @@
 
 ### Page Info 
 * Contributors: Sehyun Lee
-* 2023.05.12
 
 
 ## Summary 
