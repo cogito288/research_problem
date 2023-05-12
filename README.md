@@ -59,6 +59,7 @@ Sure! Here's the markdown table for the list of papers you provided:
 | ICLR | 2022 | [`MEND`](papers/topics/editing/2022_mend.md) Fast modeling editing at scale | Stanford | [[paper]](https://arxiv.org/abs/2110.11309) | [[code]](https://github.com/eric-mitchell/mend) |
 | ECCV | 2020 | [`Rewriting`](papers/topics/editing/2020_rewriting.md) a deep generative model | MIT CSAIL & Adobe | [[paper]](https://arxiv.org/abs/2007.15646) | [[code]](https://github.com/davidbau/rewriting) |
 | ICCV | 2021 | [`Sketch`](papers/topics/editing/2021_sketch.md) Your Own GAN |  CMU & MIT CSAIL | [[paper]](https://arxiv.org/abs/2108.02774) | [[code]](https://github.com/PeterWang512/GANSketching) |
+| ICLR | 2023 | An Image is Worth [`One Word`](papers/topics/editing/2023_one-word.md): Personalizing Text-to-Image Generation using Textual Inversion | Tel Aviv Univ. & NVIDIA | [[paper]](https://arxiv.org/abs/2208.01618) | [[code]](https://github.com/rinongal/textual_inversion) |
 | | | Locating and Editing Factual Associations in GPT | | [[paper]](http://rome.baulab.info/) | [[code]]() |
 | | | GAN Paint | | [[paper]](http://ganpaint.io/) | [[code]]() |
 | | | Network Dissection | | [[paper]](http://netdissect.csail.mit.edu/) | [[code]]() |
